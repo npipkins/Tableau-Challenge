@@ -30,8 +30,7 @@ Two csvs were used from the [Citi Bike Data](https://www.citibikenyc.com/system-
 This project seeks to analyzes bike rentals by understanding the age range statistics of the data. The decision to look more deeply into the age of the users was in hopes to provide insights on who to target long term memberships to, understand the demographics of the frequent riders, and to better determine where bike start location should be whether it is summer or winter. 
 
 
-
-/images/Screen Shot 2021-01-09 at 11.47.05 AM.png
+![ ](images/graphone.png)
 
 
 The first graph, titled “User Types – General Overview”, provides a simple visualization to try and understand if there are more customers (short-term users) or more subscribers (long-term users). This graph will show that there are slightly more subscribers! However, lets dive deeper into this to try and learn ways to raise the subscriber numbers. 
