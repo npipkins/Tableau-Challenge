@@ -60,6 +60,6 @@ The fourth graph, titled “Number of Rides Compared to Avg Trip Duration by Age
 The fifth graph, titled “Top 5 Start Locations by Age Range (Summer/Winter Overview)”, will drill further down to understanding the riders and their age groups. This graph provides insights on what age group is more likely to rent a bike from a certain area, whether it’s in summer or winter. Overall, Liberty Light Rail is the most frequent pick-up location. But to better understand the users, it’s easy to see that all of the age groups have their preferred pick-up location. Again, the group with the most rides is age group 26-25, and from here you can see that while they do use the Liberty Light Rail most, these users also frequent Newport Pkwy. This may be helpful to know, along with the other age group statistics, in determining where to put pick-up locations and when, summer or winter, to promote subscriber memberships at these same locations dependent on the age group. 
 
 
-![ ](images/graphmap.png)
+![ ](images/map.png)
 
 
