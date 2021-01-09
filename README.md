@@ -29,6 +29,11 @@ Two csvs were used from the [Citi Bike Data](https://www.citibikenyc.com/system-
 
 This project seeks to analyzes bike rentals by understanding the age range statistics of the data. The decision to look more deeply into the age of the users was in hopes to provide insights on who to target long term memberships to, understand the demographics of the frequent riders, and to better determine where bike start location should be whether it is summer or winter. 
 
+
+
+/images/Screen Shot 2021-01-09 at 11.47.05 AM.png
+
+
 The first graph, titled “User Types – General Overview”, provides a simple visualization to try and understand if there are more customers (short-term users) or more subscribers (long-term users). This graph will show that there are slightly more subscribers! However, lets dive deeper into this to try and learn ways to raise the subscriber numbers. 
 
 The second graph, titled “User Types by Age Range – Summer/Winer Overview”, will help us to determine the demographics of these different users. From here, it is clear that subscribers have a higher count than customers. However, this graph describes the reason for low customer interaction. Within the winter month, bike rentals are way more likely to be rented from subscribers than customers. December, in general, already has a lower number of rides and the fact that few to no customers are renting makes the winter month a bad time for promoting subscriber memberships. My suggestion would be to target the 46-55 age range within the summer month of May, this is the highest peak of customer rides and these users could be more likely to purchase subscriber memberships. This abnormal spike in the graph can help CitiBike learn how they can target a demographic and make more money long term! 
